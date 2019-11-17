@@ -1,7 +1,0 @@
-import java.util.Scanner;
-
-class DMOJBinary{
-  public static void main(String[] args){
-    Scanner input = new()
-  }
-}
