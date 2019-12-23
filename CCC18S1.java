@@ -2,7 +2,8 @@ import java.util.Scanner;
 import java.util.Arrays;
 import java.lang.Math;
 
-class VoronoiVillages {
+// Voronoi Villages
+public class CCC18S1 {
   
   public static void main(String[] args) {
     

@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-public class SlotMachines{
+// Slot Machines
+public class CCC00J3 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int turns = 0;
